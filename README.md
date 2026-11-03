@@ -229,7 +229,7 @@ According to GTFOBins, text editors like Vim possess built-in escape functionali
 ### Reading Root Flag
 ```
 # cat /root/root.txt
-W3ll d0n3. Y0u m4d3 1t!
+W3ll d0n3. You made it!
 ```
 <img width="445" height="135" alt="rootflag" src="https://github.com/user-attachments/assets/4b8be85d-91a6-47fa-822d-fb0fc7202cdf" />
 
